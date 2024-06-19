@@ -16,8 +16,8 @@ body {
 
 .header .logo {
     margin-right: 20px;
-    height: 400px; /* Increase the height to make the logo larger */
-    width: 400px;
+    height: 250px; /* Increase the height to make the logo larger */
+    width: 250px;
 }
 
 h2 {
