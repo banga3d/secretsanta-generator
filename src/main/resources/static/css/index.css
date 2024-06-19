@@ -17,8 +17,8 @@ body {
 
 .header .logo {
     margin-top: 15px; /* Add margin to separate the logo from the heading */
-    height: 375px; /* Adjust the height of the logo */
-    width: 375px;
+    height: 365px; /* Adjust the height of the logo */
+    width: 365px;
 }
 
 h2 {
