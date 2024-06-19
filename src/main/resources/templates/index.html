@@ -1,12 +1,15 @@
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-	<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <title>Rasheed Odutayo's Gift Match-Making App</title>
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-    <h2>Welcome To Rasheed Odutayo's Gift Matchmaking For Organizations To Share Gift During Christmas!</h2>
+    <div class="header">
+        <img src="images/Gift match-maker.png" class="logo" alt="Gift Matchmaker Logo">
+        <h2>Welcome To Rasheed Odutayo's Gift Matchmaking For Organizations To Share Gift During Christmas!</h2>
+    </div>
     <p>Click below to start!</p>
     <a th:href="@{/addpeople}">Start!</a>
 </body>
