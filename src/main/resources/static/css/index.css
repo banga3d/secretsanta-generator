@@ -6,6 +6,27 @@ body {
 	background-image: url("../images/christmastiles2.gif");
 }
 
+.header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the header content */
+    padding: 20px;
+}
+
+.header .logo {
+    margin-right: 20px;
+    height: 50px; /* Adjust as needed */
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin-top: 20px;
+}
+
 a {
 	color: #494949 !important;
 	text-transform: uppercase;
